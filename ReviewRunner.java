@@ -8,9 +8,10 @@ class ReviewRunner{
 
 
         // activity 2a - write the 'totalSentiment' method
-        // Note: this requires creating "SimpleReview.txt"
+        // Note: test your method using the "review1.txt" file
         // TIP: be sure to look for any helper methods in the Review class
-        // TIP: indexOf and substring will be your friend here
+        // write another 'review.txt' file and test your method
+      
 
 
 
@@ -23,16 +24,17 @@ class ReviewRunner{
         // less than 10       2
         // less than 20       3
         // 20 or more         4
+        // test your method on both of your text files
 
 
 
 
         // Activity 3 - a 'fakeReview'
-        // TIP 1: create a new text file for this 'SimpleReview2.txt'
-        // you'll also need to populate your 'positiveAdjectives.txt' file with at least 20 positive adjectives
-        // TIP 2: did you notice a great helper method in Review.java? Something about adjectives?
-        // Note: your final string does not require punctuation
-
+        // goal: replace negative words with (random) positive words
+        // option 1 (on pdf): 'mark' negative words with *, replace those
+        // option 2: use an algorithm similar to 2a, replace any negative words with positive words
+        // Note: your final string may or may not have punctuation
+        // also note: your final 'review' may not be grammatically correct
 
 
 
