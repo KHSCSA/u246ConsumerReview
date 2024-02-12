@@ -1,10 +1,5 @@
 class ReviewRunner{
     public static void main(String[] args){
-        // step zero
-        // look through the provided files
-        // especially look at the Review class and its methods
-
-
 
         // activity 1 - call the 'sentimentVal' method several times
         // (more details on the handout)

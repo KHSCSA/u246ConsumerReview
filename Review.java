@@ -1,3 +1,21 @@
+/*
+ * The 'cleanSentiment' list was taken from a larger 
+ * Natural Language Processing 
+ * project that examines large amounts of text and 
+ * compares how often a word appears in relation 
+ * to the words around it. It also checks if the word 
+ * is used in a positive or negative context. 
+ * The more often a word is used in a positive context, 
+ * the higher the sentiment value is.
+ * 
+ * Natural Language Processing (NLP): 
+ * NLP is a computer science field concerned with 
+ * the interactions between computers and human 
+ * (natural) languages. NLP is particularly focused on 
+ * how to program computers to process and analyze 
+ * large amounts of natural language data.
+ */
+
 import java.util.Scanner;
 import java.io.File;
 import java.util.HashMap;
