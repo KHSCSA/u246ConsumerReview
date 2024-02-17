@@ -20,8 +20,11 @@ public class HelperFileInput {
         }  
 
         // TODO
-        // how many items in the ArrayList?
-        // print a few items from the ArrayList
+        // we can .get() items
+        System.out.println();
+
+        // what if we want only the sentiment value??
+        // what string tools would be necessary?
 
     }
     
