@@ -9,7 +9,7 @@ public class HelperFileInput {
         ArrayList<String> posAdjectives = new ArrayList<String>();
 
         try {
-            Scanner input = new Scanner(new File("positiveAdjectives.txt"));
+            Scanner input = new Scanner(new File("docs/positiveAdjectives.txt"));
             while(input.hasNextLine()){
                 posAdjectives.add(input.nextLine().trim());
             }
