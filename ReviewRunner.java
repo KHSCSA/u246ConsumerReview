@@ -5,8 +5,7 @@ class ReviewRunner{
         // (more details on the handout)
 
 
-
-
+        
         // activity 2a - write the 'totalSentiment' method
         // Note: test your method using the "review1.txt" file
         // correct total sentiment is -6.42
