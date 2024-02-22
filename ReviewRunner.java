@@ -18,13 +18,6 @@ class ReviewRunner{
 
 
         // activity 2b - write the 'starRating' method
-        // this is NOT described in the book, here is one possible system
-        // sentiment val      star rating
-        // less than -10      0
-        // less than 0        1
-        // less than 10       2
-        // less than 20       3
-        // 20 or more         4
         // test your method on both of your text files
 
 
@@ -32,7 +25,7 @@ class ReviewRunner{
 
         // Activity 3 - a 'fakeReview'
         // goal: replace negative words with (random) positive words
-        // option 1 (on pdf): 'mark' negative words with *, replace those
+        // option 1 (on handout): 'mark' negative words with *, replace those
         // option 2: use an algorithm similar to 2a, replace any negative words with positive words
         // Note: your final string may or may not have punctuation
         // also note: your final 'review' may not be grammatically correct
